@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8" />
+<title>Шлепа крутой</title>
+</head>
+<body>
+<table
+border="5"
+align="center"
+rules="rows"
+style="width:60%;">
+<tr>
+<td>
+<table
+border="1"
+bgcolor="#7FFFD4"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<th>
+<h1>
+  <img src="https://sch1151zg.mskobr.ru/attach_files/staff/003_1631689237.jpg">
+  Райская Элиза</h1>
+<h3>ИТ преподаватель</h3>
+</th>
+</tr>
+</table>
+<table
+border="1"
+bgcolor="#e6e6fa"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<td
+rowspan="2"
+style="width:80%">
+<h2>Страница</h2>
+<p style="text-indent:20px">
+-Курсы по программированию </p>
+
+<p style="text-indent:20px">-Создание игр и сайтов </p>
+<p style="text-indent:20px">-Элементы компьютерной грамотности </p>
+
+</td>
+</tr>
+</table>
+
+<table
+border="1"
+bgcolor="#7FFFD4"
+height="100"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+
+<tr>
+
+<th>
+<h3>8-6453-4647-484</h3>
+ <p>
+   <a href="https://docs.google.com/document/d/1CeR8kHCvBz5aPqB3Y4siYPd6UH44bb32kU547TEneqU/edit?usp=sharing"> 
+   <style="margin-left:5px;" - отступ названия от маркера-->
+<span style="margin-left:5px;">Код моего сайта</span></a>
+</p>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
